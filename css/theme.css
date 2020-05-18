@@ -1,9 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911&text=&);
 
 @font-face {
-  font-family: 'star';
-  src: url('fonts/star.eot');
-  src: url('fonts/star.eot?#iefix') format('embedded-opentype'), url('fonts/star.woff') format('woff'), url('fonts/star.ttf') format('truetype'), url('fonts/star.svg#star') format('svg');
+  font-family:'Avenir';
+  src: url('fonts/Avenir.ttf');
   font-weight: normal;
   font-style: normal;
 }
@@ -11,10 +9,13 @@ html {
   overflow-x: hidden;
   overflow-y: auto;
 }
+h1,h2,h3,h4,h5{
+  font-family: 'Avenir';
+}
 body {
   background-color: #fff;
   color: #6d6d6d;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Avenir';
   font-size: 13px;
   line-height: 22px;
   margin: 0;
@@ -306,7 +307,7 @@ body.boxed .header-main {
 .header .logo h2 {
   position: relative;
   z-index: 2;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Avenir';
   font-size: 36px;
   line-height: 1em;
   text-transform: uppercase;
@@ -497,7 +498,7 @@ body.boxed .header-main {
     text-decoration: none;
     padding: 0 15px;
     text-transform: uppercase;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Avenir';
     line-height: 114px;
     font-weight: 400;
     position: relative;
@@ -1189,7 +1190,7 @@ header.header-fixed {
 }
 .tp-caption.large_bold_white,
 .tp-caption.mediumwhitebg {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Avenir';
   text-transform: uppercase;
 }
 .tp-caption.large_bold_white {
@@ -1212,7 +1213,7 @@ header.header-fixed {
   letter-spacing: 0;
   font-weight: 400;
   font-size: 24px;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Avenir';
   line-height: 24px;
 }
 .tp-caption.stability_large_white {
@@ -1227,8 +1228,8 @@ header.header-fixed {
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
   letter-spacing: 0;
   font-weight: 400;
-  font-size: 40px;
-  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  font-family: 'Avenir';
   line-height: 72px;
 }
 .tp-caption.stability_large_white_amp {
@@ -1244,7 +1245,7 @@ header.header-fixed {
   letter-spacing: 0;
   font-weight: 400;
   font-size: 72px;
-  font-family: 'Goudy Bookletter 1911', serif;
+  font-family: 'Avenir';
   line-height: 72px;
 }
 .tp-caption.stability_large_white_bg {
@@ -1259,7 +1260,7 @@ header.header-fixed {
   letter-spacing: 0;
   font-weight: 400;
   font-size: 72px;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Avenir';
   line-height: 72px;
 }
 .tp-caption.stability_graydivider2px {
@@ -1280,7 +1281,7 @@ header.header-fixed {
   font-size: 16px;
   line-height: 20px;
   font-weight: 400;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Avenir';
   color: #ffffff;
   text-decoration: none;
   background-color: transparent;
@@ -1299,7 +1300,7 @@ header.header-fixed {
   font-weight: 300;
   font-size: 24px;
   line-height: 20px;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Avenir';
   margin: 0px;
   border-width: 0px;
   border-style: none;
@@ -1508,7 +1509,7 @@ header.header-fixed {
   margin-bottom: 18px;
 }
 .bContainer .stability_large_white span {
-  font-family: 'Goudy Bookletter 1911', serif;
+  font-family: 'Avenir';
 }
 .bContainer .stability_graydivider2px {
   min-width: 37px;
@@ -1606,7 +1607,7 @@ header.header-fixed {
 .rsThumb {
   font-size: 14px;
   line-height: 18px;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Avenir';
   text-transform: uppercase;
   padding: 23px;
   color: #2f2f2f;
@@ -1718,7 +1719,7 @@ header.header-fixed {
   line-height: 40px;
   height: 40px;
   color: #fff;
-  font-family: 'Oswald', sans-serif;
+  font-family:'Avenir';
   text-transform: uppercase;
 }
 .ls-caption2 {
@@ -1738,7 +1739,7 @@ header.header-fixed {
   line-height: 80px;
   height: 80px;
   color: #fff;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Avenir';
   text-transform: uppercase;
 }
 /*
@@ -2349,7 +2350,7 @@ h2 + .featured-section {
   line-height: 20px;
   margin-bottom: 0;
   text-transform: none;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Avenir';
   overflow: hidden;
 }
 .widget .title > a {
@@ -3854,7 +3855,7 @@ figure.effect-winston:hover p a:first-child i {
 }
 /* Loader */
 #qLpercentage {
-  font-family: 'Anton', sans-serif;
+  font-family: 'Avenir';
 }
 #preloader-overlay {
   position: fixed;
