@@ -1,54 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911&text=&);
-/*
-Template Name: Stability Responsive HTML Template
-Template URI: http://themeforest.net/user/dan_fisher/portfolio
-Author: Dan Fisher
-Author URI: http://themeforest.net/user/dan_fisher
-Description: Stability is a clean, and multi-purpose HTML Template. It is suitable for your business, a creative agency or a portfolio projects. Stability comes with stylish design, 6 home pages, 2-4 columns, fullwidth portfolio layouts, pricing tables, 4 blog page layouts, single portfolio layouts, contacts page and more.
-Version: 1.7.1
-Tags: black, blog, bold, bootstrap, business, grid, portfolio, post formats, posts, red, stability, strong, white
-*/
-/* Table of Content
-==================================================
-	#General
-		- Typography
-	#Header
-		- Text Based Logo
-		- Image Based Logo
-	#Navigation
-	#Slider
-		- Revolution Slider
-		- Royal Slider
-		- Layer Slider
-	#Content
-		- Page Heading
-		- Page Content
-	#Widgets
-		- Base Widgets
-		- Latest Post Widget
-		- Contacts Info
-		- Flickr
-		- Tag Cloud
-		- Tabbed Widget
-	#Pages
-		- About Us
-		- 404 Error Page
-		- Coming Soon
-		- Contacts
-	#Blog
-	#Portfolio
-	#Footer
-		- Footer widgets
-		- Copyright
-	#One Page
-	#Shop
-	#Forums
-*/
-/*
-// #General
-// --------------------------------------------------
-*/
-/* Stars Fonts (for WooCommerce) */
+@import url(https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911&text=&);
+
 @font-face {
   font-family: 'star';
   src: url('fonts/star.eot');
